@@ -111,6 +111,8 @@ iOS (örnek, iOS tarafında `appWaitActivity` yoktur):
 ## Raporlama (HTML)
 Her test koşusundan sonra aynı dosya güncellenir:
 - `reports/report.html`
+Kısa yol:
+- `report/index.html`
 
 Ek özellikler:
 - Koşu başlangıç/bitiş zamanı
